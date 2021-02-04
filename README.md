@@ -39,7 +39,7 @@ In this repository we have the codes used to simulation of the paper: Fully Adap
 - Dataset: Wiener-Hammerstein
 - Prediction: One step ahead and Multi step ahead
 
-# In addiotnal the codes of the algorithms:
+# In additional the codes of the algorithms:
 - Kernel Recursive Maximum Correntropy using Novelty Criterion (KRMC-NC)
 - Kernel Recursive Least Square using Approximate Linear Dependence (KRLS-ALD)
 - Kernel Least Mean Square (KLMS)
